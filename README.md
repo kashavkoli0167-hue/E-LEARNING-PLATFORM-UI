@@ -24,7 +24,7 @@ The primary objectives of this project are:
 - To implement modern UI effects like gradients, hover animations, and cards
 - To design a clean and professional interface suitable for an internship-level project
 
-This project focuses more on user interface and experience (UI/UX) rather than functionality, making it a strong foundation for future JavaScript or backend integration.
+  This project focuses more on user interface and experience (UI/UX) rather than functionality, making it a strong foundation for future JavaScript or backend integration.
 
 **FEATURES** --
 The E-Learning Platform UI includes the following key sections:
@@ -43,7 +43,7 @@ A fixed navigation bar provides seamless navigation between pages. The footer in
 - HTML5 – for semantic structure and content organization
 - CSS3 – for styling, layouts, gradients, animations, and responsiveness
 
-No external libraries or frameworks were used, ensuring a strong focus on core frontend skills.
+  No external libraries or frameworks were used, ensuring a strong focus on core frontend skills.
 
 **DESIGN APPROCH** --
 The UI design follows a dark theme with multi-color gradient accents, giving the project a modern and polished appearance. Glassmorphism-style cards, subtle shadows, and hover animations were used to improve visual hierarchy and interactivity.
@@ -67,8 +67,18 @@ By building this project, the following skills were practiced and improved:
 - Implementing user authentication
 - Making the platform fully responsive for mobile devices
 - Connecting it to a backend or API
-
-The E-Learning Platform UI Project demonstrates a strong understanding of frontend fundamentals and UI design concepts. It serves as a solid beginner-level project suitable for internships, learning portfolios, and further expansion into a fully functional web application.
+ 
+  The E-Learning Platform UI Project demonstrates a strong understanding of frontend fundamentals and UI design concepts. It serves as a solid beginner-level project suitable for internships, learning portfolios,   and further expansion into a fully functional web application.
 
 **OUTPUTS**
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b41a6c03-26bc-40be-b17e-48fc8839c195" />
+
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3bd43d67-0349-4157-97e7-b0f2aed02ff2" />
+
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a04dead7-2bd2-4596-93dd-cd3c28c28201" />
+
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2b6f18cc-2811-4050-93bf-785c1ae5dd17" />
